@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Moon
+  - Satellite
+  - LinkedSatellite
+  - OrbitSatellite
+  - Meteor
+  - Location
+  - ColliderIgnore
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1050319663
+    locked: 0
+  - name: Moon
+    uniqueID: 1872634589
+    locked: 0
+  - name: text
+    uniqueID: 1856215729
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
